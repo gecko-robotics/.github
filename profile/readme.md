@@ -6,7 +6,7 @@ Gecko repos:
 | [gecko][2]  | python, C++ | Original gecko, but it got too complex |
 | [gunther][6]| python, C++ | Multicast library |
 | [marko][3]  | python, C++ | Pub/Sub and Request/Reply library |
-| [messages][7] |python, C++ | `namedtuples` and `struct` for passing information between systems |
+| [messages][7] |python, C++ | `dataclass` and `struct` for passing information between systems |
 | [serialcomm][4]     | C++ | serial port and I2C library modelled after python's pyserial and Arduino Wire |
 | [socket_defs][5]    | C++ | Socket definition code used by network libraries |
 
